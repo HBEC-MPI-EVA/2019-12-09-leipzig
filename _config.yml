@@ -10,7 +10,7 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Reproducible Workflows for Anthropological Computing"
 
 
 #------------------------------------------------------------
@@ -23,7 +23,7 @@ kind: "workshop"
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
 # Please don't change it: <USERNAME>/<PROJECT> is correct.
-repository: <USERNAME>/<PROJECT>
+repository: HBEC-MPI-EVA/2019-12-09-leipzig
 
 # Email address, no mailto:
 # (Don't change this -- the contact address for your workshop will be set 
